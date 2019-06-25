@@ -49,15 +49,11 @@ header img{
   height: 100%;
 }
 
-.menu-list{
-  padding: 0px !important;
-  margin-bottom: 0px;
+/*Final del encabezado*/
 
-}
-.menu-list>li:not(:last-child){
-  margin-right: 25px;
+/* Entradas */
   
-}
+
 #articulo1 img{
   width: 100%;
   }
@@ -101,4 +97,4 @@ header img{
 
 
      
-/*Footer*/
+
