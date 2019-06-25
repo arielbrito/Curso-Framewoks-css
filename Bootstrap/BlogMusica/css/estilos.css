@@ -1,0 +1,102 @@
+/*Generales*/
+body{
+  font-family: 'Roboto';
+  width: 100%;
+  height: 100%;
+
+}
+ .container{
+  margin-top: 5px;
+ }
+/*Encabezado*/
+
+header{
+   padding-top: 25px;
+   background-color: #212121  ;  
+}
+header img{   
+  padding: 0px;
+  margin-top: 75px;
+
+
+}
+.social-header {
+  margin-top:70px;
+}
+
+.social-header a{
+  color: #ffff;
+}
+.social-header a .fa-inverse{
+  color: #212121;
+}
+.menu-bar{
+  background-color: #f8b814;
+  padding-bottom: 0px;
+
+}
+.menu-bar a{
+  color:#212121;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 20px;
+}
+.menu-bar a:hover{
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 0.3);
+  height: 100%;
+}
+
+.menu-list{
+  padding: 0px !important;
+  margin-bottom: 0px;
+
+}
+.menu-list>li:not(:last-child){
+  margin-right: 25px;
+  
+}
+#articulo1 img{
+  width: 100%;
+  }
+
+.columna-noticias{
+  min-height: 500px;
+}
+
+.col-form-label {
+  padding: 10px;
+  pointer-events: none;
+  font-size:26px;
+  color:#f8b814;
+  text-align: right;
+
+}
+#comentario {
+  padding-left: 30px!important;
+  border-radius: 10px;
+ 
+}
+.form-control-feedback{
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+.form-control{
+  padding-left: 30px!important;
+}
+.columna-busqueda form{
+  margin-top: 20px;
+  text-align: center;
+}
+.lista-busqueda a{
+ width: 100%;
+
+}
+
+
+
+
+     
+/*Footer*/
